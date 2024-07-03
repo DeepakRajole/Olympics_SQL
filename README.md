@@ -7,7 +7,7 @@ This project involves analyzing the Olympics dataset spanning 120 years of histo
 Create a database called Olympics
 
 
-Create 2 tables with [dataset](https://github.com/Tamil-Selvan-R/Olympics_SQL/tree/main/DataSet)
+Create 2 tables with [dataset]
 
   **Athletes Dataset:**
         Contains detailed information about all players who participated in the Olympics.
@@ -46,12 +46,6 @@ Create 2 tables with [dataset](https://github.com/Tamil-Selvan-R/Olympics_SQL/tr
   2. **scripts/:** SQL scripts for importing data and performing analysis.
   3. **presentation/:** Presentation slides summarizing key findings.
 
-## Credits
-
-Throughout the development of this project, I have sought information from a youtube video channel: [Ankit Bansal](https://www.youtube.com/@ankitbansal6)
-
 ## Conclusion
 
 The project was successful in analysing diverse aspects of Olympics data, revealing team performance, individual achievements and medal-winning patterns.
-
-  Happy Coding!
